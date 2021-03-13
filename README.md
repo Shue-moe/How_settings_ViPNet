@@ -1,1 +1,11 @@
-# How_settings_ViPNet
+# How settings ViPNet    
+    
+## SQLExpress    
+
+Name for SQLExpress: WINNCCSQL    
+For browser: Automatik
+FILESTREAM: enable all
+
+
+## HW-VA
+
